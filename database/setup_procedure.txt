@@ -1,0 +1,4 @@
+Xampp\mysql\data
+
+
+Add those files in this location
